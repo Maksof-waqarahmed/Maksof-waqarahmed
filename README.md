@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waqar-ahmed-22120224b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waqar-ahmed-22120224b" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/waqar.rana.1253236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/waqar.rana.1253236" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@waqarahmed786121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@waqarahmed786121" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/waqar_ahmed786/" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="@waqarahmed786121" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
