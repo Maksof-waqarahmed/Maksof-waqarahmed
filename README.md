@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/waqarahmed-00/waqarahmed-00/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png" alt="logo" />
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="animated header" />
 </p>
 
 <h1 align="center">💫 About Me</h1>
@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksof-waqarahmed&label=Profile%20views&color=0e75b6&style=flat" alt="maksof-waqarahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" /></a> </p>
