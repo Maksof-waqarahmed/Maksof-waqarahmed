@@ -1,17 +1,18 @@
-![logo](https://github.com/waqarahmed-00/waqarahmed-00/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
+![logo]([https://github.com/waqarahmed-00/waqarahmed-00/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif))
+<h1>💫 About Me:<h1>
+<br>
+<h1>Hi 👋, I'm Waqar Ahmed</h1>
+<p>by profession Software Engineer @Maksof and Instrctor at Bano Qabil for coding courses</p>
+<p>Currently learning DevOps and Python</p>
+<p>In touch **waqarahmed7861234@gmail.com**</p>
 
-<h1 align="center">Hi 👋, I'm Waqar Ahmed</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
+<h1>🌐 Socials:<h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksof-waqarahmed&label=Profile%20views&color=0e75b6&style=flat" alt="maksof-waqarahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS, Prisma (ORM), PostgraSQL, NextJS**
 
-- 👨‍💻 All of my projects are available at [https://waqarportfolio.netlify.app/](https://waqarportfolio.netlify.app/)
-
-- 📫 How to reach me **waqarahmed7861234@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
