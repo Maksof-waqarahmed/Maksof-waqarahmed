@@ -1,13 +1,32 @@
-![logo]([https://github.com/waqarahmed-00/waqarahmed-00/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif))
-<h1>💫 About Me:<h1>
-<br>
-<h1>Hi 👋, I'm Waqar Ahmed</h1>
-<p>by profession Software Engineer @Maksof and Instrctor at Bano Qabil for coding courses</p>
-<p>Currently learning DevOps and Python</p>
-<p>In touch **waqarahmed7861234@gmail.com**</p>
+<p align="center">
+  <img src="https://github.com/waqarahmed-00/waqarahmed-00/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png" alt="logo" />
+</p>
 
+<h1 align="center">💫 About Me</h1>
 
-<h1>🌐 Socials:<h1>
+<h2>👋 I'm Waqar Ahmed</h2>
+
+<p>
+  👨‍💻 A dedicated <strong>Software Engineer</strong> at <strong>Maksof</strong> and an <strong>Instructor</strong> at <strong>Bano Qabil</strong> for coding courses.<br />
+  📘 Currently learning <strong>Python</strong> and <strong>DevOps</strong> to expand my skills in backend and deployment.<br />
+  📬 Get in touch: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
+</p>
+
+---
+
+<h2>🌐 Connect with me</h2>
+
+<p align="left">
+  <a href="https://linkedin.com/in/waqarahmed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/waqarahmed" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:waqarahmed7861234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksof-waqarahmed&label=Profile%20views&color=0e75b6&style=flat" alt="maksof-waqarahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" /></a> </p>
