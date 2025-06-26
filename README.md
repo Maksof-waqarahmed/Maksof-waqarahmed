@@ -98,6 +98,6 @@
 
 <!-- Streak in next line center -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-waqarahmed&theme=default" alt="maksof-waqarahmed-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-waqarahmed&" alt="maksof-waqarahmed" />
 </p>
 
