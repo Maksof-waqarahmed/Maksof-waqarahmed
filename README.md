@@ -1,35 +1,29 @@
-<h1 align="center">💫 About Me</h1>
+<h1>💫 About Me</h1>
 
-<h3 align="center">👋 I'm Waqar Ahmed</h3>
+<h3>👋 I'm Waqar Ahmed</h3>
+  👨‍💻 A dedicated <strong>Software Engineer</strong> at <strong>Maksof</strong> and an <strong>Instructor</strong> at <strong>Bano Qabil</strong> for coding courses.<br />
+  📘 Currently learning <strong>Python</strong> and <strong>DevOps</strong> to expand my skills in backend and deployment.<br />
+  📬 Get in touch: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
+<br> <br>
 
-<p align="center">
-  👨‍💻 A dedicated <strong>Software Engineer</strong> at <strong>Maksof</strong><br />
-  👨‍🏫 Instructor at <strong>Bano Qabil</strong> for coding courses<br />
-  📘 Currently learning <strong>Python</strong> and <strong>DevOps</strong><br />
-  📬 <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
-</p>
+<h1>🌐 Connect with me</h1> 
 
----
-
-<h1 align="center">🌐 Connect with Me</h1>
-
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/waqarahmed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/waqarahmed" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:waqarahmed7861234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+<br>
 
----
+<h1>💻 Tech Stack:</h1>
 
-<h1 align="center">💻 Tech Stack</h1>
-
-<p align="center">
+<p align="left">
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -45,33 +39,35 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/TRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white" />
 
-<!-- Frontend -->
+<!-- Frontend Libraries -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
 <img src="https://img.shields.io/badge/React Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 
-<!-- UI -->
+<!-- UI Frameworks -->
 <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
 <img src="https://img.shields.io/badge/ShadCN-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-<!-- API/Auth -->
+<!-- APIs & Auth -->
 <img src="https://img.shields.io/badge/REST API-FF6F00?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-<!-- DevOps -->
+<!-- DevOps & Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub Pages-121013?style=for-the-badge&logo=githubpages&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/DevOps-1F6FEB?style=for-the-badge&logo=azuredevops&logoColor=white" />
 
-<!-- Cloud/Database -->
+<!-- Cloud & Hosting -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<!-- Database -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
@@ -82,39 +78,62 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </p>
+<br> <br>
 
----
+<h1>📊 GitHub Stats:</h1>
 
-<h1 align="center">📊 GitHub Stats</h1>
-
-<p align="center">
+<!-- Trophies -->
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed&theme=darkhub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" />
   </a>
 </p>
 
+<!-- Stats & Languages in one line -->
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maksof-waqarahmed&show_icons=true&locale=en" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maksof-waqarahmed&show_icons=true&locale=en&theme=default" alt="maksof-waqarahmed-stats" />
   &nbsp;&nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksof-waqarahmed&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksof-waqarahmed&layout=compact&theme=default" alt="maksof-waqarahmed-langs" />
 </p>
 
+<!-- Streak in next line center -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-waqarahmed&" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-waqarahmed&" alt="maksof-waqarahmed" />
 </p>
+<br> <br>
 
----
-
-<h1 align="center">✍️ Random Dev Quote</h1>
-
+<h1>✍️ Random Dev Quote</h1>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
 
----
+<br> <br>
 
-<h1 align="center">🔝 Top Contributed Repositories</h1>
+<h1>🔝 Top Contributed Repositories</h1>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=maksof-waqarahmed&limit=5" />
-</p>
+<table align="center">
+  <tr>
+    <th align="left">📦 Repository</th>
+    <th>⭐ Grade</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/js-course-material">js-course-material</a></td>
+    <td><strong>A+</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/mern-batch-3.0">mern-batch-3.0</a></td>
+    <td><strong>A</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/olx-clone">olx-clone</a></td>
+    <td><strong>B</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/insta-clone">insta-clone</a></td>
+    <td><strong>B</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/meme-generator">meme-generator</a></td>
+    <td><strong>B</strong></td>
+  </tr>
+</table>
