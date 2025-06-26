@@ -4,7 +4,7 @@
   👨‍💻 A dedicated <strong>Software Engineer</strong> at <strong>Maksof</strong> and an <strong>Instructor</strong> at <strong>Bano Qabil</strong> for coding courses.<br />
   📘 Currently learning <strong>Python</strong> and <strong>DevOps</strong> to expand my skills in backend and deployment.<br />
   📬 Get in touch: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
-<br>
+<br> <br>
 
 <h1>🌐 Connect with me</h1> 
 
