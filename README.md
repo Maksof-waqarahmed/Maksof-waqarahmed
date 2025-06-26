@@ -4,6 +4,7 @@
   👨‍💻 A dedicated <strong>Software Engineer</strong> at <strong>Maksof</strong> and an <strong>Instructor</strong> at <strong>Bano Qabil</strong> for coding courses.<br />
   📘 Currently learning <strong>Python</strong> and <strong>DevOps</strong> to expand my skills in backend and deployment.<br />
   📬 Get in touch: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
+<br>
 
 <h1>🌐 Connect with me</h1> 
 
@@ -18,6 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+<br>
 
 <h1>💻 Tech Stack:</h1>
 
@@ -77,7 +79,7 @@
 
 </p>
 
-## 📊 GitHub Stats:
+<h1>📊 GitHub Stats:</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" /></a> </p>
 
