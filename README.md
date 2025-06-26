@@ -1,16 +1,14 @@
 <h1>💫 About Me</h1>
 
 <h2>👋 I'm Waqar Ahmed</h2>
-
 <p>
   👨‍💻 A dedicated <strong>Software Engineer</strong> at <strong>Maksof</strong> and an <strong>Instructor</strong> at <strong>Bano Qabil</strong> for coding courses.<br />
   📘 Currently learning <strong>Python</strong> and <strong>DevOps</strong> to expand my skills in backend and deployment.<br />
   📬 Get in touch: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
 </p>
 
----
 
-<h1>🌐 Connect with me</h1>
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/waqarahmed" target="_blank">
@@ -24,7 +22,6 @@
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack:
 
@@ -83,6 +80,8 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </p>
+
+## 📊 GitHub Stats:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" /></a> </p>
 
