@@ -82,11 +82,22 @@
 
 <h1>📊 GitHub Stats:</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" /></a> </p>
+<!-- Trophies -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=maksof-waqarahmed&show_icons=true&locale=en" alt="maksof-waqarahmed" /></p>
+<!-- Stats & Languages in one line -->
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maksof-waqarahmed&show_icons=true&locale=en&theme=default" alt="maksof-waqarahmed-stats" />
+  &nbsp;&nbsp;
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksof-waqarahmed&layout=compact&theme=default" alt="maksof-waqarahmed-langs" />
+</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maksof-waqarahmed&show_icons=true&locale=en&layout=compact" alt="maksof-waqarahmed" /></p> <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-waqarahmed&" alt="maksof-waqarahmed" /></p>
+<!-- Streak in next line center -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-waqarahmed&theme=default" alt="maksof-waqarahmed-streak" />
+</p>
 
