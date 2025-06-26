@@ -100,4 +100,41 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-waqarahmed&" alt="maksof-waqarahmed" />
 </p>
+<br> <br>
+
+<h1>✍️ Random Dev Quote</h1>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
+
+<br> <br>
+
+<h1>🔝 Top Contributed Repositories</h1>
+
+<table align="center">
+  <tr>
+    <th align="left">📦 Repository</th>
+    <th>⭐ Grade</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/js-course-material">js-course-material</a></td>
+    <td><strong>A+</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/mern-batch-3.0">mern-batch-3.0</a></td>
+    <td><strong>A</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/olx-clone">olx-clone</a></td>
+    <td><strong>B</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/insta-clone">insta-clone</a></td>
+    <td><strong>B</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/waqarahmed-00/meme-generator">meme-generator</a></td>
+    <td><strong>B</strong></td>
+  </tr>
+</table>
 
