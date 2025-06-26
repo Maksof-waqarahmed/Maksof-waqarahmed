@@ -1,14 +1,11 @@
 <h1>💫 About Me</h1>
 
-<h2>👋 I'm Waqar Ahmed</h2>
-<p>
+<h3>👋 I'm Waqar Ahmed</h3>
   👨‍💻 A dedicated <strong>Software Engineer</strong> at <strong>Maksof</strong> and an <strong>Instructor</strong> at <strong>Bano Qabil</strong> for coding courses.<br />
   📘 Currently learning <strong>Python</strong> and <strong>DevOps</strong> to expand my skills in backend and deployment.<br />
   📬 Get in touch: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
-</p>
 
-
-## 🌐 Connect with me
+<h1>🌐 Connect with me</h1> 
 
 <p align="left">
   <a href="https://linkedin.com/in/waqarahmed" target="_blank">
@@ -22,8 +19,7 @@
   </a>
 </p>
 
-
-## 💻 Tech Stack:
+<h1>💻 Tech Stack:</h1>
 
 <p align="left">
 
