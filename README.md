@@ -109,7 +109,7 @@
 
 <br> <br>
 
-<h1>🔝 Top Contributed Repositories</h1>
+<!-- <h1>🔝 Top Contributed Repositories</h1>
 
 <table align="center">
   <tr>
@@ -136,4 +136,4 @@
     <td><a href="https://github.com/waqarahmed-00/meme-generator">meme-generator</a></td>
     <td><strong>B</strong></td>
   </tr>
-</table>
+</table> -->
