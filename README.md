@@ -77,6 +77,30 @@
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
+<!-- AI / Langchain & Vector DB -->
+<img src="https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/VectorDB-0A0A0A?style=for-the-badge&logo=weaviate&logoColor=white" />
+
+<!-- Hosting / Deployment -->
+<img src="https://img.shields.io/badge/Render-3ABFF8?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+<!-- Package Manager / Build Tools -->
+<img src="https://img.shields.io/badge/pnpm-DC0A0A?style=for-the-badge&logo=pnpm&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+<!-- Authentication / Auth -->
+<img src="https://img.shields.io/badge/oAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" />
+<img src="https://img.shields.io/badge/BetterAuth-FF6600?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/Auth.js-161616?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+<!-- Cloud / Serverless -->
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Serverless-000000?style=for-the-badge&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+
 </p>
 <br> <br>
 
