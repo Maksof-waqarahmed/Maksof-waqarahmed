@@ -1,14 +1,15 @@
-<h1>💫 About Me</h1>
+<h1 align="center">💫 Waqar Ahmed</h1>
+<p align="center">
+  👨‍💻 Software Engineer at <strong>Maksof</strong> | Instructor at <strong>Bano Qabil</strong><br />
+  📘 Learning <strong>Python</strong> & <strong>DevOps</strong> | Always coding and exploring new tech<br />
+  📬 Contact: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
+</p>
 
-<h3>👋 I'm Waqar Ahmed</h3>
-  👨‍💻 A dedicated <strong>Software Engineer</strong> at <strong>Maksof</strong> and an <strong>Instructor</strong> at <strong>Bano Qabil</strong> for coding courses.<br />
-  📘 Currently learning <strong>Python</strong> and <strong>DevOps</strong> to expand my skills in backend and deployment.<br />
-  📬 Get in touch: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
-<br> <br>
+---
 
 <h1>🌐 Connect with me</h1> 
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/waqarahmeddev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,11 +20,12 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-<br>
+
+---
 
 <h1>💻 Tech Stack:</h1>
 
-<p align="left">
+<p align="center">
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,16 +72,12 @@
 <!-- Database -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 
 <!-- AI / Langchain & Vector DB -->
 <img src="https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -88,7 +86,6 @@
 <!-- Hosting / Deployment -->
 <img src="https://img.shields.io/badge/Render-3ABFF8?style=for-the-badge&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <!-- Package Manager / Build Tools -->
 <img src="https://img.shields.io/badge/pnpm-DC0A0A?style=for-the-badge&logo=pnpm&logoColor=white" />
@@ -107,12 +104,13 @@
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
 
 </p>
-<br> <br>
+
+---
 
 <h1>📊 GitHub Stats:</h1>
 
 <!-- Trophies -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=maksof-waqarahmed" alt="maksof-waqarahmed" />
   </a>
@@ -129,40 +127,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-waqarahmed&" alt="maksof-waqarahmed" />
 </p>
-<br> <br>
+
+---
 
 <h1>✍️ Random Dev Quote</h1>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
 
-<br> <br>
+---
 
-<!-- <h1>🔝 Top Contributed Repositories</h1>
-
-<table align="center">
-  <tr>
-    <th align="left">📦 Repository</th>
-    <th>⭐ Grade</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/waqarahmed-00/js-course-material">js-course-material</a></td>
-    <td><strong>A+</strong></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/waqarahmed-00/mern-batch-3.0">mern-batch-3.0</a></td>
-    <td><strong>A</strong></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/waqarahmed-00/olx-clone">olx-clone</a></td>
-    <td><strong>B</strong></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/waqarahmed-00/insta-clone">insta-clone</a></td>
-    <td><strong>B</strong></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/waqarahmed-00/meme-generator">meme-generator</a></td>
-    <td><strong>B</strong></td>
-  </tr>
-</table> -->
+<h2>🎯 Fun / Personal Goals</h2>
+<p>
+  🚀 Building scalable web apps • 💡 Learning new tech stacks • 🏃‍♂️ Fitness & problem-solving • 🎮 Gaming & AI experiments
+</p>
