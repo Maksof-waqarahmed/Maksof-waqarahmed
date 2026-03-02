@@ -1,7 +1,7 @@
 <h1 align="center">💫 Waqar Ahmed</h1>
 <p align="center">
-  👨‍💻 Software Engineer at <strong>Maksof</strong> | Instructor at <strong>Bano Qabil</strong><br />
-  📘 Learning <strong>Python</strong> & <strong>DevOps</strong> | Always coding and exploring new tech<br />
+  👨‍💻 Software Engineer at <strong>Maksof Global LTD</strong> | Senior Instructor at <strong>Bano Qabil</strong><br />
+  📘 Always coding and exploring new tech<br />
   📬 Contact: <a href="mailto:waqarahmed7861234@gmail.com">waqarahmed7861234@gmail.com</a>
 </p>
 
@@ -12,9 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/waqarahmeddev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/waqar_rana78/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:waqarahmed7861234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
