@@ -1,4 +1,4 @@
-<h1 align="center">💫 Waqar Ahmed</h1>
+<h1 align="center">💫 Waqar Rana</h1>
 <p align="center">
   👨‍💻 Software Engineer at <strong>Maksof Global LTD</strong> | Senior Instructor at <strong>Bano Qabil</strong><br />
   📘 Always coding and exploring new tech<br />
